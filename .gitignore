@@ -1,0 +1,15 @@
+# Geçici dosyalar ve klasörler
+.cache/
+.local/
+.npm/
+.ipynb_checkpoints/
+
+# Python gereksiz dosyalar
+*.pyc
+__pycache__/
+
+# Jupyter Notebook gereksiz dosyalar
+*.ipynb_checkpoints
+
+# Çıktı dosyaları
+*.log
